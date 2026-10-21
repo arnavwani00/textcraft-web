@@ -1,0 +1,6 @@
+{
+  "name": "TextCraft",
+  "description": "Paste the text. Pick the vibe. Get the reply. The smart conversational response companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
